@@ -22,7 +22,9 @@ After pre-processing, the data is used as input for training various **ML/DL ens
 **3.    Stacking Ensemble Techniques:** Using **StratifiedKfold** to split the train data into 10 subsets and using **Bootstrapping** techniques to create an output to be used as **features in the final meta-classifier | Additional models** used apart from the ones mentioned above: **LinearSVC(), KNeighborsClassifier(), LogisticRegression(), VotingClassifier() and Deep Neural Networks (DNNs)<br/>**
  
 ## Models Used and Evaluation
-The are three different notebooks attached in this repository as a part of this project:<br/><br/>
- - **Principal Component Analysis on Train/Test Data**
- - **Bagging and Boosting Machine Learning Ensemble Techniques**
- - **Stacking Ensemble Techinique - ML Models Stacked Over DNN**
+The are three different jupyter notebooks attached in this repository as a part of this project:<br/>
+ - Principal Component Analysis **(PCA)** on Train/Test Data
+ - **Bagging and Boosting** Machine Learning Ensemble Techniques
+ - **Ensemble ML Models' Stacking Over DNN - Loan Eligibility Prediction**
+
+
