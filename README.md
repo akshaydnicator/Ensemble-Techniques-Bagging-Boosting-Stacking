@@ -7,9 +7,9 @@ Dream Housing Finance **company wants to automate the loan eligibility process (
  **Train file:** CSV containing the data for **614 customers** for whom loan eligibility is known as 'Loan_Status<br/>
  **Test file:** CSV containing the data for **367 customers** for whom loan eligibility is to be predicted<br/><br/>
  **Train Variables Description**<br/>
- ![Train variables](https://github.com/akshaydnicator/Ensemble-Techniques-Bagging-Boosting-Stacking/blob/master/Train%20variables%20screenshot.jpg)<br/>
+ ![Train variables](https://github.com/akshaydnicator/Ensemble-Techniques-Bagging-Boosting-Stacking/blob/master/Screenshots/Train%20variables%20screenshot.jpg)<br/>
  **Test Variables Description**<br/>
- ![Test variables](https://github.com/akshaydnicator/Ensemble-Techniques-Bagging-Boosting-Stacking/blob/master/Test%20variables%20screenshot.png)<br/>
+ ![Test variables](https://github.com/akshaydnicator/Ensemble-Techniques-Bagging-Boosting-Stacking/blob/master/Screenshots/Test%20variables%20screenshot.png)<br/>
 
 ## Approach and Implementation
 Both the training and test file tweets have been **pre-processed** using one standardized process as given below:
