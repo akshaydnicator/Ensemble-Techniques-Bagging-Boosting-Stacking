@@ -23,8 +23,10 @@ After pre-processing, the data is used as input for training various **ML/DL ens
  
 ## Models Used and Evaluation
 The are three different jupyter notebooks attached in this repository as a part of this project:<br/>
- - Principal Component Analysis **(PCA)** on Train/Test Data
+ - Principal Component Analysis **(PCA)** on Train-Test Data
  - **Bagging and Boosting** Machine Learning Ensemble Techniques
- - **Ensemble ML Models' Stacking Over DNN - Loan Eligibility Prediction**
+ - **Ensemble ML Models' Stacking Over DNN** - Loan Eligibility Prediction
+
+
 
 
